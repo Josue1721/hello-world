@@ -1,3 +1,3 @@
 # hello-world
 
-A little website to put al my work in 
+A little website to put all my work in 
